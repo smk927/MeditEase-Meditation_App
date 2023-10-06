@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- homescreen strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="take_a_deep_breath__string">Take a Deep Breath,</string>
+	<string name="keep_calm_and_relax___string">Keep Calm andRelax!!</string>
+	<string name="start_string">Start</string>
+	<string name="app_name1">Navigation Drawer</string>
+	<string name="open_nav">Open Navigation Drawer</string>
+	<string name="close_nav">Close Navigation Drawer</string>
+</resources>
